@@ -2,6 +2,12 @@
 
 > User recipes service
 
+Стэк технологий: 
+Nuxt.js 2.3.4
+Koa.js 2.6.2
+Bootstrap 4.1.3
+MongoDB 4.0.6
+
 ## Build Setup
 
 ``` bash
